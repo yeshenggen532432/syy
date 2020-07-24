@@ -25,12 +25,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_1"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
@@ -51,12 +51,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_2"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
@@ -77,12 +77,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_3"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
@@ -110,12 +110,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_4"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
@@ -136,12 +136,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_5"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
@@ -162,12 +162,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_6"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
@@ -194,12 +194,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_7"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
@@ -220,12 +220,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_8"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
@@ -246,12 +246,12 @@
             android:orientation="vertical"
             android:gravity="center">
             <ImageView
-                android:layout_width="@dimen/dp_30"
-                android:layout_height="@dimen/dp_30"
+                android:layout_width="@dimen/dp_20"
+                android:layout_height="@dimen/dp_20"
                 android:src="@mipmap/ic_home_9"/>
 
             <TextView
-                style="@style/tv_cgray3_s13"
+                style="@style/tv_cgray6_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_3"
