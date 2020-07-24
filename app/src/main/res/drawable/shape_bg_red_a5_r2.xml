@@ -5,7 +5,7 @@
     <corners android:radius="@dimen/dp_2" />
 
 <!--    填充背景颜色-->
-    <solid android:color="#55FF0000" />
+    <solid android:color="@color/red_a5" />
 
 <!--    线的设置：颜色，宽度-->
 <!--    <stroke android:color="@color/green"-->

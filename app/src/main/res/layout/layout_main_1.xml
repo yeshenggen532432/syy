@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:tools="http://schemas.android.com/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:padding="@dimen/dp_10"
@@ -13,7 +13,7 @@
         android:layout_marginBottom="@dimen/dp_10"
         android:visibility="visible"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/dp_30"
+        android:layout_height="@dimen/dp_25"
         android:orientation="horizontal">
 
         <TextView
@@ -23,14 +23,14 @@
             android:layout_height="match_parent"
             android:background="@drawable/shape_line_green_w1_r2"
             android:gravity="center"
-            tools:text="2020-07-22"/>
+            android:text="2020-07-22"/>
 
         <TextView
             android:layout_width="@dimen/dp_50"
             android:layout_height="match_parent"
             android:gravity="center"
             android:textColor="@color/green"
-            tools:text="~"/>
+            android:text="~"/>
 
         <TextView
             style="@style/tv_cgray3_s13"
@@ -39,7 +39,7 @@
             android:layout_height="match_parent"
             android:background="@drawable/shape_line_green_w1_r2"
             android:gravity="center"
-            tools:text="2020-07-22"/>
+            android:text="2020-07-22"/>
 
     </LinearLayout>
 
@@ -47,7 +47,7 @@
         android:layout_marginBottom="@dimen/dp_10"
         android:visibility="visible"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/dp_35"
+        android:layout_height="@dimen/dp_25"
         android:orientation="horizontal">
 
         <RadioButton
@@ -71,7 +71,6 @@
             android:background="@drawable/selector_c_green_r2"
             android:textColor="@color/selector_white_to_gray"
             android:gravity="center"
-            android:checked="true"
             android:text="今天"/>
         <RadioButton
             android:layout_weight="1"
@@ -98,16 +97,15 @@
     </RadioGroup>
 
     <LinearLayout
-        android:layout_marginBottom="@dimen/dp_20"
+        android:layout_marginBottom="@dimen/dp_10"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/dp_80"
+        android:layout_height="@dimen/dp_60"
         android:orientation="horizontal">
         <LinearLayout
             android:layout_weight="1"
             android:layout_width="@dimen/dp_0"
             android:layout_height="match_parent"
-            android:layout_marginRight="@dimen/dp_10"
-            android:background="@drawable/shape_bg_red_r2"
+            android:background="@drawable/shape_bg_red_a5_r2"
             android:orientation="vertical"
             android:gravity="center">
             <TextView
@@ -115,9 +113,9 @@
                 android:textStyle="bold"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="222"/>
+                android:text="222"/>
             <TextView
-                style="@style/tv_cred_s15"
+                style="@style/tv_cred_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="今日收银(元)"/>
@@ -128,7 +126,7 @@
             android:layout_height="match_parent"
             android:layout_marginLeft="@dimen/dp_10"
             android:layout_marginRight="@dimen/dp_10"
-            android:background="@drawable/shape_bg_red_r2"
+            android:background="@drawable/shape_bg_purple_a5_r2"
             android:orientation="vertical"
             android:gravity="center">
             <TextView
@@ -136,19 +134,20 @@
                 android:textStyle="bold"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="500"/>
+                android:textColor="@color/purple"
+                android:text="500"/>
             <TextView
-                style="@style/tv_cred_s15"
+                style="@style/tv_cred_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/purple"
                 android:text="会员充值(元)"/>
         </LinearLayout>
         <LinearLayout
             android:layout_weight="1"
             android:layout_width="@dimen/dp_0"
             android:layout_height="match_parent"
-            android:background="@drawable/shape_bg_red_r2"
-            android:layout_marginLeft="@dimen/dp_10"
+            android:background="@drawable/shape_bg_yellow_a5_r2"
             android:orientation="vertical"
             android:gravity="center">
             <TextView
@@ -156,25 +155,26 @@
                 android:textStyle="bold"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="222"/>
+                android:textColor="@color/yellow"
+                android:text="222"/>
             <TextView
-                style="@style/tv_cred_s15"
+                style="@style/tv_cred_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/yellow"
                 android:text="批发额(元)"/>
         </LinearLayout>
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="@dimen/dp_80"
+        android:layout_height="@dimen/dp_60"
         android:orientation="horizontal">
         <LinearLayout
             android:layout_weight="1"
             android:layout_width="@dimen/dp_0"
             android:layout_height="match_parent"
-            android:layout_marginRight="@dimen/dp_10"
-            android:background="@drawable/shape_bg_red_r2"
+            android:background="@drawable/shape_bg_green_a5_r2"
             android:orientation="vertical"
             android:gravity="center">
             <TextView
@@ -182,11 +182,13 @@
                 android:textStyle="bold"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="222"/>
+                android:textColor="@color/green"
+                android:text="222"/>
             <TextView
-                style="@style/tv_cred_s15"
+                style="@style/tv_cred_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/green"
                 android:text="今日收银(元)"/>
         </LinearLayout>
         <LinearLayout
@@ -195,7 +197,7 @@
             android:layout_height="match_parent"
             android:layout_marginLeft="@dimen/dp_10"
             android:layout_marginRight="@dimen/dp_10"
-            android:background="@drawable/shape_bg_red_r2"
+            android:background="@drawable/shape_bg_red_a5_r2"
             android:orientation="vertical"
             android:gravity="center">
             <TextView
@@ -203,9 +205,9 @@
                 android:textStyle="bold"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="500"/>
+                android:text="500"/>
             <TextView
-                style="@style/tv_cred_s15"
+                style="@style/tv_cred_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="会员充值(元)"/>
@@ -214,8 +216,7 @@
             android:layout_weight="1"
             android:layout_width="@dimen/dp_0"
             android:layout_height="match_parent"
-            android:layout_marginLeft="@dimen/dp_10"
-            android:background="@drawable/shape_bg_red_r2"
+            android:background="@drawable/shape_bg_blue_a5_r2"
             android:orientation="vertical"
             android:gravity="center">
             <TextView
@@ -223,11 +224,13 @@
                 android:textStyle="bold"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tools:text="222"/>
+                android:textColor="@color/blue"
+                android:text="222"/>
             <TextView
-                style="@style/tv_cred_s15"
+                style="@style/tv_cred_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/blue"
                 android:text="批发额(元)"/>
         </LinearLayout>
     </LinearLayout>

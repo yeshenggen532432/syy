@@ -11,4 +11,6 @@
 
     <include layout="@layout/layout_main_1"/>
 
+    <include layout="@layout/layout_main_2"/>
+
 </LinearLayout>

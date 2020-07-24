@@ -12,14 +12,10 @@
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
     <color name="light_blue">#4DA8DD</color>
-    <color name="blue">#0082CE</color>
     <color name="dark_blue">#3D9FD8</color>
-    <color name="green">#179F01</color>
     <color name="light_green">#71BC73</color>
     <color name="light_red">#E65F63</color>
-    <color name="red">#FF0000</color>
     <color name="dark_orange">#F68503</color>
-    <color name="orange">#FFAA25</color>
     <color name="tab_gray_bg">#F1F1F1</color>
     <color name="yunpan_gray_bg">#EEEEEE</color>
     
@@ -53,7 +49,6 @@
     <color name="gray_d">#dddddd</color>
     <color name="gray_e">#EEEEEE</color>
     <color name="head_blue">#0082CA</color>
-    <color name="yellow">#FF6600</color>
     <color name="blue_head">#0082CA</color>
     
 <!--     销售小结 -->
@@ -90,7 +85,19 @@
 
 
     //--------------------------------新--------------------------------------
-    <color name="red_main">#55FF0000</color>
+    <color name="red">#FF3828</color>
+    <color name="purple">#5968F8</color>
+    <color name="yellow">#F8BA00</color>
+    <color name="blue">#2B81FA</color>
+    <color name="green">#1EBEB4</color>
+    <color name="orange">#FF6600</color>
+
+
+    <color name="red_a5">#FFF0ED</color>
+    <color name="purple_a5">#F4F4FE</color>
+    <color name="yellow_a5">#FFFAEC</color>
+    <color name="blue_a5">#EAF3FE</color>
+    <color name="green_a5">#EEFAF8</color>
 
 
     

@@ -7,6 +7,11 @@
     </style>
 
     <!--*************************************************字体风格：开始******************************************************-->
+    <style name="tv_cgray3_s22">
+        <item name="android:textSize">@dimen/sp_22</item>
+        <item name="android:textColor">@color/gray_3</item>
+        <item name="android:textColorHint">@color/gray_3</item>
+    </style>
     <!--颜色是：gray_3-->
     <style name="tv_cgray3_s15">
         <item name="android:textSize">@dimen/sp_15</item>
