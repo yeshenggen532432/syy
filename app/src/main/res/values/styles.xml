@@ -1,0 +1,137 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--*************************************************字体风格：开始******************************************************-->
+    <!--颜色是：gray_3-->
+    <style name="tv_cgray3_s15">
+        <item name="android:textSize">@dimen/sp_15</item>
+        <item name="android:textColor">@color/gray_3</item>
+    </style>
+
+    <style name="tv_cgray3_s13">
+        <item name="android:textSize">@dimen/sp_13</item>
+        <item name="android:textColor">@color/gray_3</item>
+    </style>
+
+    <style name="tv_cgray3_s11">
+        <item name="android:textSize">@dimen/sp_11</item>
+        <item name="android:textColor">@color/gray_3</item>
+    </style>
+    <!--颜色是：gray_6-->
+    <style name="tv_cgray6_s15">
+        <item name="android:textSize">@dimen/sp_15</item>
+        <item name="android:textColor">@color/gray_6</item>
+    </style>
+
+    <style name="tv_cgray6_s13">
+        <item name="android:textSize">@dimen/sp_13</item>
+        <item name="android:textColor">@color/gray_6</item>
+    </style>
+
+    <style name="tv_cgray6_s11">
+        <item name="android:textSize">@dimen/sp_11</item>
+        <item name="android:textColor">@color/gray_6</item>
+    </style>
+    <!--颜色是：gray_9-->
+    <style name="tv_cgray9_s15">
+        <item name="android:textSize">@dimen/sp_15</item>
+        <item name="android:textColor">@color/gray_9</item>
+    </style>
+
+    <style name="tv_cgray9_s13">
+        <item name="android:textSize">@dimen/sp_13</item>
+        <item name="android:textColor">@color/gray_9</item>
+    </style>
+
+    <style name="tv_cgray9_s11">
+        <item name="android:textSize">@dimen/sp_11</item>
+        <item name="android:textColor">@color/gray_9</item>
+    </style>
+    <!--颜色是：yellow_FF6600-->
+    <style name="tv_cyellow_s15">
+        <item name="android:textSize">@dimen/sp_15</item>
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="tv_cyellow_s13">
+        <item name="android:textSize">@dimen/sp_13</item>
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="tv_cyellow_s11">
+        <item name="android:textSize">@dimen/sp_11</item>
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <!--颜色是：blue_2597f0-->
+    <style name="tv_cblue_s15">
+        <item name="android:textSize">@dimen/sp_15</item>
+        <item name="android:textColor">@color/x_blue</item>
+        <item name="android:textColorHint">@color/x_blue</item>
+    </style>
+
+    <style name="tv_cblue_s13">
+        <item name="android:textSize">@dimen/sp_13</item>
+        <item name="android:textColor">@color/x_blue</item>
+        <item name="android:textColorHint">@color/x_blue</item>
+    </style>
+
+    <style name="tv_cblue_s11">
+        <item name="android:textSize">@dimen/sp_11</item>
+        <item name="android:textColor">@color/x_blue</item>
+        <item name="android:textColorHint">@color/x_blue</item>
+    </style>
+
+    <!--颜色是：红色-->
+    <style name="tv_cred_s22">
+        <item name="android:textSize">@dimen/sp_22</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textColorHint">@color/red</item>
+    </style>
+    <style name="tv_cred_s18">
+        <item name="android:textSize">@dimen/sp_18</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textColorHint">@color/red</item>
+    </style>
+    <style name="tv_cred_s15">
+        <item name="android:textSize">@dimen/sp_15</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textColorHint">@color/red</item>
+    </style>
+
+    <style name="tv_cred_s13">
+        <item name="android:textSize">@dimen/sp_13</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textColorHint">@color/red</item>
+    </style>
+
+    <style name="tv_cred_s11">
+        <item name="android:textSize">@dimen/sp_11</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textColorHint">@color/red</item>
+    </style>
+
+    <!--颜色是：white-->
+    <style name="tv_cwhite_s15">
+        <item name="android:textSize">@dimen/sp_15</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/red</item>
+    </style>
+
+    <style name="tv_cwhite_s13">
+        <item name="android:textSize">@dimen/sp_13</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="tv_cwhite_s11">
+        <item name="android:textSize">@dimen/sp_11</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
