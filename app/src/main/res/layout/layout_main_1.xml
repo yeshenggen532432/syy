@@ -21,7 +21,7 @@
             android:layout_weight="1"
             android:layout_width="@dimen/dp_0"
             android:layout_height="match_parent"
-            android:background="@drawable/shape_line_green_w1_r2"
+            android:background="@drawable/shape_line_green_w1_r3"
             android:gravity="center"
             android:text="2020-07-22"/>
 
@@ -37,7 +37,7 @@
             android:layout_weight="1"
             android:layout_width="@dimen/dp_0"
             android:layout_height="match_parent"
-            android:background="@drawable/shape_line_green_w1_r2"
+            android:background="@drawable/shape_line_green_w1_r3"
             android:gravity="center"
             android:text="2020-07-22"/>
 
