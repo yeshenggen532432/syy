@@ -189,7 +189,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/green"
-                android:text="今日收银(元)"/>
+                android:text="采购额(元)"/>
         </LinearLayout>
         <LinearLayout
             android:layout_weight="1"
@@ -210,7 +210,7 @@
                 style="@style/tv_cred_s13"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="会员充值(元)"/>
+                android:text="批发结算(元)"/>
         </LinearLayout>
         <LinearLayout
             android:layout_weight="1"
@@ -231,7 +231,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/blue"
-                android:text="批发额(元)"/>
+                android:text="采购结算(元)"/>
         </LinearLayout>
     </LinearLayout>
 
